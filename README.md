@@ -1,6 +1,9 @@
 # MechaCar_Statistical_Analysis
 # Summary
 ## Linear Regression to Predict MPG
+
+Multi-variate statistical analysis was completed to determine which manufacturing factors affect mpg performance of MechaCar prototypes.
+
 - In reviewing the p-values for the multiple variables/coefficients, vehicle_length (p=2.60e-08) and ground_clearance (p=5.21e-08)  have more significance in predicting mpg performance than the other variables measured. These other variables were vehicle_weight, spoiler_angle and AWD, which are more likely to provide random variance.
 - The slope of the linear model is not zero.  The results of the multiple linear model shows a p-value of 5.35e-11, indicating a statistically significant linear relationship exists and therefore not 0 slope.
 - The R-squared value of 71.49% and p-value of the intercept (5.08e-08) means that the model can be used for a good amount of predictability, however, there may be other factors that need to be included to reduce more variability.
