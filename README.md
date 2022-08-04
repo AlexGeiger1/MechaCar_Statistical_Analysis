@@ -11,7 +11,7 @@ Multi-variate statistical analysis was completed to determine which manufacturin
 ![](https://github.com/AlexGeiger1/MechaCar_Statistical_Analysis/blob/main/Resources/deliverable1.png)
 
 ## Summary Statistics on Suspension Coils
-Overall, the total)summary information shows the variance is within the requirement of no more than 100 points per square inch.  But reviewing data by lot shows the variance on Lot3 is higher than acceptable.
+Overall, the total summary information shows the variance is within the requirement of no more than 100 points per square inch.  But reviewing data by lot shows the variance on Lot3 is higher than acceptable.
 - Total_summary
 
 ![Total_summary](https://github.com/AlexGeiger1/MechaCar_Statistical_Analysis/blob/main/Resources/deliverable2a.png)
